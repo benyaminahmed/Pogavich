@@ -1,0 +1,40 @@
+.header {
+    background-color: black;
+    margin: 0;
+    padding: 10px;
+}
+
+.title {
+    font-size: 30px;
+    font-family: 'Vesper Libre', serif;
+    position: absolute;
+    top: 5px;
+    color: white;
+}
+
+.div {
+    background-color: black;
+}
+
+.div2 {
+    border-bottom: 1px solid black;
+}
+
+.btn-header {
+    background-color: black;
+    color: white !important;
+}
+
+.div1 {
+    font-family: 'Neuton', serif;
+    margin-top: 100px;
+}
+
+.img {
+    width: 100%;
+    height: 100%;
+}
+
+.beny {
+    border-radius: 50%;
+}

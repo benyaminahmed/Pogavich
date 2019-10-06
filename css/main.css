@@ -1,0 +1,76 @@
+.link, .link:hover {
+    text-decoration: none;
+    color: inherit;
+}
+
+.header {
+    background-color: black;
+    margin: 0;
+    padding: 10px;
+}
+
+.title {
+    height: 60px;
+    width: 266px;
+}
+
+.div {
+    background-color: black;
+}
+
+.div2 {
+    border-bottom: 1px solid black;
+    font-size: 30px;
+}
+
+p, .div2 {
+    font-family: 'Vesper Libre', serif;
+}
+
+.btn-header {
+    background-color: black;
+    color: white !important;
+}
+
+ul {
+    list-style-type: none;
+}
+
+h4, h5 {
+    text-transform: capitalize;
+}
+
+.title {
+    font-family: 'Vesper Libre', serif;
+    color: white;
+}
+
+body {
+    text-align: center;
+}
+
+.head {
+    font-size: 60px;
+}
+
+.catch-phrase {
+    border-bottom: 1px solid black 100pc;
+    text-align: center;
+    background-color: lightgrey 100%;
+}
+
+.container {
+    text-align: center;
+}
+
+.img1 {
+    float: top 2px;
+}
+
+.buy {
+    margin: 17px;
+}
+
+.card {
+    margin: 10px;
+}

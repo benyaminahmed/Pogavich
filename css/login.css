@@ -1,0 +1,30 @@
+#wrongPassword {
+    color: red;
+}
+
+.ba-btn-login {
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.body {
+    background-color: white;
+    background-image: url("../cool-background.png");
+}
+
+.btn {
+    border-color: 1px solid black;
+    background-color: White;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1000px;
+}
+
+.title {
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 250px;
+    border-bottom: 2px solid black;
+    width: 100px;
+    height: 100px;
+}

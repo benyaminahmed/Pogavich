@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+}
+
+.head {
+    font-size: 60px;
+}
+
+.catch-phrase {
+    border-bottom: 1px solid black 100pc;
+    text-align: center;
+    background-color: lightgrey 100%;
+}
+
+.container {
+    text-align: center;
+    font-family: 'Poppins' sans-serif;
+}
+
+.img1 {
+    float: top 2px;
+}
+
+.buy {
+    margin: 17px;
+}
+
+.card {
+    margin: 10px;
+}
+
+.picy{
+    border-radius: 50%;
+    margin-left: 15px
+}

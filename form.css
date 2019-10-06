@@ -1,0 +1,40 @@
+body {
+    color: black;
+}
+
+form ul {
+    padding-left: 0;
+}
+
+form li {
+    list-style: none;
+    margin-bottom: 30px;
+}
+
+label {
+    display: block;
+}
+
+textarea {
+    width: 500px;
+    height: 100px;
+}
+
+.head {
+    background: url("../img/logo.png") no-repeat;
+    background-size: 100px 100px;
+    text-indent: -999px;
+    width: 100px;
+    height: 100px
+}
+
+.text {
+    font-size: 50px;
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Orbitron', sans-serif;
+    letter-spacing: 10px;
+    color: darkgreen;
+    text-transform: uppercase;
+    text-shadow: 5px 10px 10px black;
+}

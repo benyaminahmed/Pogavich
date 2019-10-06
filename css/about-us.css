@@ -1,0 +1,15 @@
+.div2 {
+    border-bottom: 1px solid black;
+    font-size: 30px;
+    font-family: 'Vesper Libre', serif;
+    margin-top: 20px;
+}
+
+.btn-header {
+    background-color: black;
+    color: white !important;
+}
+
+.p {
+    font-family: 'Vesper Libre', serif;
+}
